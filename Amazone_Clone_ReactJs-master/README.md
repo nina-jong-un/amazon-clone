@@ -1,9 +1,7 @@
 
-# Amazon - Clone using ReactJs
 
-**Project Link** - ***https://alanbinu-ecommerce.web.app/***
 
-## Tech We Used
+## Tech stack
 
 - ReactJs
 - Firebase Hosting
@@ -19,17 +17,12 @@
 - Add to cart
 - Remove from cart
 - Payment 
-- Neat and clean UI
-
-## Steps to run in your machine
-
-#### Run the following commands
-```
-npm i
-npm run start
-```
 
 
 
 
-#### Hope you liked this project, dont forget to ⭐ the repo.
+
+
+
+
+
