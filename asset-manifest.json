@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/amazon_React/static/css/main.b67b03e0.chunk.css",
-    "main.js": "/amazon_React/static/js/main.9e6f74b3.chunk.js",
-    "main.js.map": "/amazon_React/static/js/main.9e6f74b3.chunk.js.map",
-    "runtime-main.js": "/amazon_React/static/js/runtime-main.318fe360.js",
-    "runtime-main.js.map": "/amazon_React/static/js/runtime-main.318fe360.js.map",
-    "static/js/2.2cc179db.chunk.js": "/amazon_React/static/js/2.2cc179db.chunk.js",
-    "static/js/2.2cc179db.chunk.js.map": "/amazon_React/static/js/2.2cc179db.chunk.js.map",
+    "main.js": "/amazon_React/static/js/main.d0ae01be.chunk.js",
+    "main.js.map": "/amazon_React/static/js/main.d0ae01be.chunk.js.map",
+    "runtime-main.js": "/amazon_React/static/js/runtime-main.9dd60c2b.js",
+    "runtime-main.js.map": "/amazon_React/static/js/runtime-main.9dd60c2b.js.map",
+    "static/js/2.e3b232f4.chunk.js": "/amazon_React/static/js/2.e3b232f4.chunk.js",
+    "static/js/2.e3b232f4.chunk.js.map": "/amazon_React/static/js/2.e3b232f4.chunk.js.map",
     "index.html": "/amazon_React/index.html",
     "static/css/main.b67b03e0.chunk.css.map": "/amazon_React/static/css/main.b67b03e0.chunk.css.map",
-    "static/js/2.2cc179db.chunk.js.LICENSE.txt": "/amazon_React/static/js/2.2cc179db.chunk.js.LICENSE.txt"
+    "static/js/2.e3b232f4.chunk.js.LICENSE.txt": "/amazon_React/static/js/2.e3b232f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.318fe360.js",
-    "static/js/2.2cc179db.chunk.js",
+    "static/js/runtime-main.9dd60c2b.js",
+    "static/js/2.e3b232f4.chunk.js",
     "static/css/main.b67b03e0.chunk.css",
-    "static/js/main.9e6f74b3.chunk.js"
+    "static/js/main.d0ae01be.chunk.js"
   ]
 }
